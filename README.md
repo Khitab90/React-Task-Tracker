@@ -10,10 +10,6 @@ This is the project includes the react ui as well as JSON-server for the mock ba
 npm install
 ```
 
-## Available Scripts
-
-In the project directory, you can run:
-
 ### Run React dev server (http://localhost:3000)
 
 ```
